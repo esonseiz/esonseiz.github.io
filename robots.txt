@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esonseiz.github.io/sitemap.html.gz
+Sitemap: https://esonseiz.github.io/app/sitemap.html.gz
+Sitemap: https://esonseiz.github.io/assets/sitemap.html.gz
+Sitemap: https://esonseiz.github.io/css/sitemap.html.gz
+Sitemap: https://esonseiz.github.io/includes/sitemap.html.gz
+Sitemap: https://esonseiz.github.io/item/sitemap.html.gz
+Sitemap: https://esonseiz.github.io/src/sitemap.html.gz
